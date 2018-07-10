@@ -1,0 +1,18 @@
+
+
+body{
+    
+    background-color: #ed683f;
+
+
+}
+
+/*元素选择器*/
+i{
+    color: red;
+}
+#a{
+
+    font-size: 50PX;
+    color: #000000;
+}
